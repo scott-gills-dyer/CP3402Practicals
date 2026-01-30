@@ -16,9 +16,9 @@ img  {
 }
 
 header {
-	top: 0;
 	background-color: #000;
 	height: 100px;
+	color: #fff;
 }
 
 header img {
