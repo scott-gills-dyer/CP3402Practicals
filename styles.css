@@ -18,7 +18,7 @@ img  {
 header {
 	top: 0;
 	background-color: #000;
-	height: 190px;
+	height: 100px;
 }
 
 header img {
@@ -28,5 +28,6 @@ header img {
 main {
     background-color: #fff;
     text-align: center;
+	margin: 0 auto;
     
 }
